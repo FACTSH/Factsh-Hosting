@@ -1,8 +1,13 @@
 {
   "files": {
     "main.css": "./static/css/main.c5b30a5d.css",
-    "main.js": "./static/js/main.5d8a9eb7.js",
+    "main.js": "./static/js/main.9c637205.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
+    "static/media/gallery1.JPG": "./static/media/gallery1.b794a229cd29a8d1dd16.JPG",
+    "static/media/gallery2.JPG": "./static/media/gallery2.1a7f839c78fdc33bc6e7.JPG",
+    "static/media/gallery4.JPG": "./static/media/gallery4.c8e687998012feda1ed6.JPG",
+    "static/media/gallery7.JPG": "./static/media/gallery7.5a4fc179c250018a67d4.JPG",
+    "static/media/gallery8.JPG": "./static/media/gallery8.7de821ac8cb353b496c4.JPG",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/lab2.png": "./static/media/lab2.2ed7e93e1eeefb90341b.png",
     "static/media/banner3.png": "./static/media/banner3.2b5e2d62c5a5d703d4e0.png",
@@ -26,7 +31,6 @@
     "static/media/JISHA_MARIYAM_JOHN.png": "./static/media/JISHA_MARIYAM_JOHN.b001d4e78d8a00c7354c.png",
     "static/media/Seshathri_S.jpeg": "./static/media/Seshathri_S.a73b56b8095e646a14d3.jpeg",
     "static/media/Sai_Tejashwin_Eswarapu.jpeg": "./static/media/Sai_Tejashwin_Eswarapu.f3797d2fb79b21f2be7d.jpeg",
-    "static/media/gallery1.jpg": "./static/media/gallery1.370b8bbf4cde997d8b9e.jpg",
     "static/media/gallery5.jpg": "./static/media/gallery5.536cc35b8d0193259cbb.jpg",
     "static/media/divyasindhulekha.png": "./static/media/divyasindhulekha.67fe08a6a283347673b1.png",
     "static/media/TUSHAAR.png": "./static/media/TUSHAAR.7644ecc68090337e53b9.png",
@@ -39,14 +43,10 @@
     "static/media/SUSMERA_JOSEPH.png": "./static/media/SUSMERA_JOSEPH.83479b3861c075380b10.png",
     "static/media/jositmariya.png": "./static/media/jositmariya.79bff1c651f70f29391e.png",
     "static/media/gallery18.jpg": "./static/media/gallery18.85674faf019587f0bd3d.jpg",
-    "static/media/gallery2.jpg": "./static/media/gallery2.b20422b1f1922fde627d.jpg",
-    "static/media/gallery7.jpg": "./static/media/gallery7.b20422b1f1922fde627d.jpg",
     "static/media/gallery16.jpeg": "./static/media/gallery16.8f34371ceb92586cb767.jpeg",
     "static/media/Internship.pdf": "./static/media/Internship.05f825178e7507898489.pdf",
-    "static/media/gallery8.jpg": "./static/media/gallery8.6a9438202d1f6d221338.jpg",
     "static/media/Remya_Raveendran.jpeg": "./static/media/Remya_Raveendran.5c99659826537cbbe390.jpeg",
     "static/media/gallery12.JPG": "./static/media/gallery12.5b41501a1f36d3dc6154.JPG",
-    "static/media/gallery4.jpg": "./static/media/gallery4.5ccb5629c59db6c2bcc5.jpg",
     "static/media/jeena.png": "./static/media/jeena.93ccbd7f2e71f8642d3c.png",
     "static/media/gallery17.jpg": "./static/media/gallery17.013f01c886a377b9c962.jpg",
     "static/media/gallery6.jpg": "./static/media/gallery6.d01bf47743e318ec139f.jpg",
@@ -71,7 +71,6 @@
     "static/media/SELVARAJ_MARIYAPPAN.png": "./static/media/SELVARAJ_MARIYAPPAN.e0b1c6d6c7b9583e834a.png",
     "static/media/iit_palakkad.jpeg": "./static/media/iit_palakkad.7d5264d63312d1368548.jpeg",
     "static/media/ranjith.png": "./static/media/ranjith.1e30e76294ab9ba89032.png",
-    "static/media/gallery11.jpg": "./static/media/gallery11.ae457813598aa34b1744.jpg",
     "static/media/jsahoo.png": "./static/media/jsahoo.124f998762fef0eecc19.png",
     "static/media/navya.png": "./static/media/navya.8d85706ec5da1161d286.png",
     "static/media/raunak.png": "./static/media/raunak.b71c70671b770deb169b.png",
@@ -107,11 +106,11 @@
     "static/media/linkedin1.svg": "./static/media/linkedin1.dbcccf9f1df6c10dccc70cb495c270b7.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.f3a323af9973db2e9b1e.svg",
     "main.c5b30a5d.css.map": "./static/css/main.c5b30a5d.css.map",
-    "main.5d8a9eb7.js.map": "./static/js/main.5d8a9eb7.js.map",
+    "main.9c637205.js.map": "./static/js/main.9c637205.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c5b30a5d.css",
-    "static/js/main.5d8a9eb7.js"
+    "static/js/main.9c637205.js"
   ]
 }
