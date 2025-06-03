@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.bfe5e884.css",
-    "main.js": "./static/js/main.4c425909.js",
+    "main.js": "./static/js/main.88e74f01.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/gallery1.jpg": "./static/media/gallery1.b794a229cd29a8d1dd16.jpg",
     "static/media/gallery2.jpg": "./static/media/gallery2.1a7f839c78fdc33bc6e7.jpg",
@@ -11,6 +11,7 @@
     "static/media/gallery19.jpg": "./static/media/gallery19.7eed860d2388aab291ce.jpg",
     "static/media/gallery7.jpg": "./static/media/gallery7.5a4fc179c250018a67d4.jpg",
     "static/media/gallery8.jpg": "./static/media/gallery8.7de821ac8cb353b496c4.jpg",
+    "static/media/Ansith_Sivadasan.JPG": "./static/media/Ansith_Sivadasan.9fe85091a962e731993e.JPG",
     "static/media/gallery39.jpg": "./static/media/gallery39.aac55ecf6076f46ae33b.jpg",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/lab2.png": "./static/media/lab2.2ed7e93e1eeefb90341b.png",
@@ -138,11 +139,11 @@
     "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
     "main.bfe5e884.css.map": "./static/css/main.bfe5e884.css.map",
-    "main.4c425909.js.map": "./static/js/main.4c425909.js.map",
+    "main.88e74f01.js.map": "./static/js/main.88e74f01.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfe5e884.css",
-    "static/js/main.4c425909.js"
+    "static/js/main.88e74f01.js"
   ]
 }
