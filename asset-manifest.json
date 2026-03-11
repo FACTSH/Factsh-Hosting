@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.bfe5e884.css",
-    "main.js": "./static/js/main.85b76caf.js",
+    "main.js": "./static/js/main.92ad9e07.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/slider_img.JPG": "./static/media/slider_img.18b3d634a676e3de23c4.JPG",
     "static/media/slider_img8.JPG": "./static/media/slider_img8.b5ae8c30b8b1be903793.JPG",
@@ -17,6 +17,7 @@
     "static/media/Ansith_Sivadasan.JPG": "./static/media/Ansith_Sivadasan.9fe85091a962e731993e.JPG",
     "static/media/gallery39.jpg": "./static/media/gallery39.aac55ecf6076f46ae33b.jpg",
     "static/media/ADITI KRISHNAN.jpg": "./static/media/ADITI KRISHNAN.55c333241b36a128a895.jpg",
+    "static/media/internship.png": "./static/media/internship.ab6b709fc2e19ce1d869.png",
     "static/media/Aseem.jpg": "./static/media/Aseem.30a8f00e220c09ca2481.jpg",
     "static/media/iiitkottayam2.jpg": "./static/media/iiitkottayam2.4026fd10f1ef50f4c10a.jpg",
     "static/media/Shivkarthik Suresh.jpg": "./static/media/Shivkarthik Suresh.9eb509cfb853f7f1ceff.jpg",
@@ -172,11 +173,11 @@
     "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
     "main.bfe5e884.css.map": "./static/css/main.bfe5e884.css.map",
-    "main.85b76caf.js.map": "./static/js/main.85b76caf.js.map",
+    "main.92ad9e07.js.map": "./static/js/main.92ad9e07.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfe5e884.css",
-    "static/js/main.85b76caf.js"
+    "static/js/main.92ad9e07.js"
   ]
 }
