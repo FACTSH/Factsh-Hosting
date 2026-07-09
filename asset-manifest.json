@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.fa9eff0a.css",
-    "main.js": "./static/js/main.f3e48de7.js",
+    "main.css": "./static/css/main.4dc577fc.css",
+    "main.js": "./static/js/main.474c360d.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/slider_img.JPG": "./static/media/slider_img.18b3d634a676e3de23c4.JPG",
     "static/media/slider_img8.jpg": "./static/media/slider_img8.b5ae8c30b8b1be903793.jpg",
@@ -68,6 +68,7 @@
     "static/media/abhirami s.jpg": "./static/media/abhirami s.17323daff2773ecce6df.jpg",
     "static/media/gallery24.jpeg": "./static/media/gallery24.220a32fed9a378bf7a2f.jpeg",
     "static/media/slider_img2.jpeg": "./static/media/slider_img2.220a32fed9a378bf7a2f.jpeg",
+    "static/media/main_logo.svg": "./static/media/main_logo.b9fd8849ca0e83e34576.svg",
     "static/media/Franklin James.jpg": "./static/media/Franklin James.c2c8c7359e1ba2d10704.jpg",
     "static/media/Rithika E.jpg": "./static/media/Rithika E.29fb4ea9e19ed185f857.jpg",
     "static/media/athulya alex.jpg": "./static/media/athulya alex.8b6f099c00efa8490108.jpg",
@@ -174,12 +175,12 @@
     "static/media/linkedin.svg": "./static/media/linkedin.01867e18e471fa792bc6.svg",
     "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
-    "main.fa9eff0a.css.map": "./static/css/main.fa9eff0a.css.map",
-    "main.f3e48de7.js.map": "./static/js/main.f3e48de7.js.map",
+    "main.4dc577fc.css.map": "./static/css/main.4dc577fc.css.map",
+    "main.474c360d.js.map": "./static/js/main.474c360d.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa9eff0a.css",
-    "static/js/main.f3e48de7.js"
+    "static/css/main.4dc577fc.css",
+    "static/js/main.474c360d.js"
   ]
 }
