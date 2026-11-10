@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.4dc577fc.css",
-    "main.js": "./static/js/main.0759cd72.js",
+    "main.js": "./static/js/main.a9454f22.js",
     "static/js/453.727a817f.chunk.js": "./static/js/453.727a817f.chunk.js",
     "static/media/slider_img.JPG": "./static/media/slider_img.18b3d634a676e3de23c4.JPG",
     "static/media/slider_img8.jpg": "./static/media/slider_img8.b5ae8c30b8b1be903793.jpg",
@@ -36,6 +36,7 @@
     "static/media/gallery32.jpeg": "./static/media/gallery32.00989e9526352cf35c83.jpeg",
     "static/media/ajay thomas.jpg": "./static/media/ajay thomas.8404f62b7422ee15d629.jpg",
     "static/media/iiitkottayam3.jpg": "./static/media/iiitkottayam3.1b21f2a8fca9bfd8965c.jpg",
+    "static/media/winter.jpeg": "./static/media/winter.19cb860a392d3153a0ca.jpeg",
     "static/media/ics assignment 2.pdf": "./static/media/ics assignment 2.84eabb9f146d12af343f.pdf",
     "static/media/iiitkottayam1.png": "./static/media/iiitkottayam1.8034b7e312f634658845.png",
     "static/media/slider_img3.jpeg": "./static/media/slider_img3.0c90cb062bba705e6bce.jpeg",
@@ -176,11 +177,11 @@
     "static/media/linkedin1.svg": "./static/media/linkedin1.16c0d8a59525877e9d2ec48b0ac93d9e.svg",
     "static/media/ArrowIcon.svg": "./static/media/ArrowIcon.34642edd42d5aa22b94c.svg",
     "main.4dc577fc.css.map": "./static/css/main.4dc577fc.css.map",
-    "main.0759cd72.js.map": "./static/js/main.0759cd72.js.map",
+    "main.a9454f22.js.map": "./static/js/main.a9454f22.js.map",
     "453.727a817f.chunk.js.map": "./static/js/453.727a817f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4dc577fc.css",
-    "static/js/main.0759cd72.js"
+    "static/js/main.a9454f22.js"
   ]
 }
